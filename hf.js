@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         HIT Forker
-// @version      13.9.29
+// @version      14.0.0
 // @description  Monitors mturk.com for HITs
 // @author       Developers M C KRISH and Ruthu
 
